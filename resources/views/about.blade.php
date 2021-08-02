@@ -115,7 +115,7 @@
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/misyon.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/misyon.svg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text order-1">
                     <h4 class="subheading">Projeler</h4>
                     <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
