@@ -42,12 +42,12 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active"><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
-                <li class="nav-item"><a href="services" class="nav-link">portfolio</a></li>
+                <li class="nav-item"><a href="services" class="nav-link">Portfolio</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
-                        <a class="dropdown-item" href="services">Yazılım Geliştirme</a>
-                        <a class="dropdown-item" href="portfolio">Video Prodüksiyon</a>
+                        <a class="dropdown-item" href="services2">Yazılım Geliştirme</a>
+                        <a class="dropdown-item" href="services">Video Prodüksiyon</a>
 
                     </div>
                 </li>
