@@ -159,9 +159,9 @@
                 <div class="col-md-3">
                     <a href="#" class="featured-img">
                         <div class="text-1 p-4 d-flex align-items-center">
-                            <h3>Voyage<br><span class="tag">Website</span></h3>
+                            <h3>Arama Motoru Optimizasyonu<br><span class="tag">Website</span></h3>
                         </div>
-                        <img src="images/image_2.jpg" class="img-fluid" alt="">
+                        <img src="images/search.svg" class="img-fluid" alt="">
                         <div class="text p-4 d-flex align-items-center">
 
                         </div>
