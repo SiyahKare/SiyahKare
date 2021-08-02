@@ -77,8 +77,8 @@
         <div class="container-fluid" data-scrollax-parent="true">
           <div class="row mt-5 d-flex justify-content-center">
             <div class="col-md-8 text-center heading-section ftco-animate">
-              <h2 class="h1">SiyahKare Dijital Çözümler</h2>
-              <p>Ekibimiz 1995 yılından bu yana bilişim sektöründe etkin çalışan, yüzden fazla dijital projeye imza atmış her biri alanında uzman kişilerin SiyahKare markası altında toplanmasıyla oluşmuştur.</p>
+              <h2 class="mb-4">SiyahKare Dijital Çözümler</h2>
+              <p>Ekibimiz 1995 yılından bu yana bilişim sektöründe etkin çalışan, <br> yüzden fazla dijital projeye imza atmış <br> her biri alanında uzman kişilerin SiyahKare markası altında toplanmasıyla oluşmuştur.</p>
             </div>
           </div>
         </div>
@@ -89,8 +89,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Team</span>
-            <h2 class="mb-4">Our Team</h2>
+          <img width="250px" src="images/sklogobeyaz.png" alt="">
+                    <h2 class="h1"> <strong style="color: black;">  SiyahKare Yazılım Teknoloji San. Tic. A.Ş.</strong></h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
