@@ -39,7 +39,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
-                <li class="nav-item"><a href="portfolio" class="nav-link">Portfolio</a></li>
+                <li class="nav-item active"><a href="portfolio" class="nav-link">Portfolio</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
@@ -49,7 +49,7 @@
 
                     </div>
                 </li>
-                <li class="nav-item active"><a href="blog" class="nav-link">Blog</a></li>
+                <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
                 <li class="nav-item"><a href="contact" class="nav-link">İletişim</a></li>
 
             </ul>

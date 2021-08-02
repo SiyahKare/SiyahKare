@@ -37,12 +37,12 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="home" class="nav-link">Ana Sayfa</a></li>
+                <li class="nav-item "><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
-                <li class="nav-item"><a href="services" class="nav-link">Portfolio</a></li>
+                <li class="nav-item"><a href="portfolio" class="nav-link">Portfolio</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
-                    <div class="dropdown-menu" aria-labelledby="dropdown04">
+                    <div class="dropdown-menu active" aria-labelledby="dropdown04">
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
                         <a class="dropdown-item" href="services3">Web Geliştirme</a>
                         <a class="dropdown-item" href="services">Video Prodüksiyon</a>
@@ -92,7 +92,7 @@
         <div class="row mb-5">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-            <img width="150px" src="images/number1.png" alt="">
+            <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Strategy</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -101,7 +101,7 @@
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-            <img width="100px" src="images/number2.png" alt="">
+            <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-laptop"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Design</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
