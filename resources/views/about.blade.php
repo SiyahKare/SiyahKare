@@ -99,16 +99,16 @@
     <div class="container">
         <div class="row no-gutters justify-content-center mb-5 pb-5">
             <div class="col-md-7 text-center heading-section ftco-animate">
-                <span class="subheading">Projelerİmİz</span>
-                <h2 class="mb-4">Geliştirdiğimiz Projeler</h2>
+                <span class="subheading">Hakkımızda</span>
+                <h2 class="mb-4">Kurumsal</h2>
             </div>
         </div>
         <div class="row">
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
+                <a href="portfolio" class="image" style="background-image: url('images/vizyon.svg'); " data-scrollax=" properties: { translateY: '-20%'}">
                 </a>
                 <div class="text">
-                    <h4 class="subheading">Projeler</h4>
+                    <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Proaktif Yönetim</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
 
@@ -117,7 +117,7 @@
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
                 <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/misyon.svg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text order-1">
-                    <h4 class="subheading">Projeler</h4>
+                    <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
                     <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
                 </div>
@@ -125,7 +125,7 @@
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
                 <a href="portfolio" class="image" style="background-image: url('images/neparca.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text">
-                    <h4 class="subheading">Projeler</h4>
+                    <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
 
