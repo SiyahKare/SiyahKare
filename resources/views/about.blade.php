@@ -94,36 +94,7 @@
             <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-4 mb-5 ftco-animate">
-            <div class="block-10">
-              <div class="person-info mb-2">
-                <span class="name">Jacob Smith</span>
-                <span class="position">Co Designer</span>
-              </div>
-              <img src="images/person_1.jpg" alt="" class="img-fluid mb-3">
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            </div>
-          </div>
-          <div class="col-md-4 mb-5 ftco-animate">
-            <div class="block-10">
-              <div class="person-info mb-2">
-                <span class="name">Aldin Henderson</span>
-                <span class="position">Web Developer</span>
-              </div>
-              <img src="images/person_3.jpg" alt="" class="img-fluid mb-3">
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            </div>
-          </div>
-          <div class="col-md-4 mb-5 ftco-animate">
-            <div class="block-10">
-              <div class="person-info mb-2">
-                <span class="name">Mark Willis</span>
-                <span class="position">Lead Web Developer</span>
-              </div>
-              <img src="images/person_2.jpg" alt="" class="img-fluid mb-3">
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            </div>
+        
           </div>
         </div>
       </div>
