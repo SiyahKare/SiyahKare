@@ -100,9 +100,8 @@
     <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
             <div class="col-md-7 text-center heading-section ftco-animate">
-                <span class="subheading">Customer Says</span>
-                <h2 class="mb-4">Our satisfied customer says</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+                <h2 class="mb-4">Gelecekte yapılabileceklerin sınırı nedir?</h2>
+                <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
             </div>
         </div>
         <div class="row ftco-animate">
