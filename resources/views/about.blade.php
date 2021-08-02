@@ -80,6 +80,8 @@
           <div class="col-md-7 text-center heading-section ftco-animate">
           <img width="250px" src="images/sklogobeyaz.png" alt="">
                     <h2 class="h1"> <strong style="color: black;">  SiyahKare Yazılım Teknoloji <br> San. Tic. A.Ş.</strong></h2>
+                    <p>Ekibimiz 1995 yılından bu yana bilişim sektöründe etkin çalışan, yüzden fazla dijital projeye imza atmış her biri alanında uzman kişilerin SiyahKare markası altında toplanmasıyla oluşmuştur.</p>
+                    <br>
             <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
           </div>
         </div>
