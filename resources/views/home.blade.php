@@ -324,28 +324,28 @@
         </div>
         <div class="row">
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio.html" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
+                <a href="portfolio" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
                 </a>
                 <div class="text">
                     <h4 class="subheading">Projeler</h4>
-                    <h2 class="heading"><a href="portfolio.html">Proaktif Yönetim</a></h2>
+                    <h2 class="heading"><a href="portfolio">Proaktif Yönetim</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
 
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/envanter.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/envanter.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text order-1">
                     <h4 class="subheading">Projeler</h4>
-                    <h2 class="heading"><a href="portfolio.html">Envanter Takibi</a></h2>
+                    <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio.html" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text">
                     <h4 class="subheading">Web Design</h4>
-                    <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+                    <h2 class="heading"><a href="portfolio">Even the all-powerful Pointing has no control</a></h2>
                     <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
                 </div>
             </div>
