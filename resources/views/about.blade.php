@@ -109,7 +109,7 @@
                 </a>
                 <div class="text">
                     <h4 class="subheading">Kurumsal</h4>
-                    <h2 class="heading"><a href="portfolio">Proaktif Yönetim</a></h2>
+                    <h2 class="heading"><a href="portfolio">Misyonumuz</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
 
                 </div>
@@ -118,15 +118,15 @@
                 <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/misyon.svg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text order-1">
                     <h4 class="subheading">Kurumsal</h4>
-                    <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
+                    <h2 class="heading"><a href="portfolio">Kalite Politikamız</a></h2>
                     <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image" style="background-image: url('images/neparca.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image" style="background-image: url('images/strateji.svg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text">
                     <h4 class="subheading">Kurumsal</h4>
-                    <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
+                    <h2 class="heading"><a href="portfolio">Strateji</a></h2>
                     <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
 
                 </div>
