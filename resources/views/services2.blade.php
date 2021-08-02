@@ -37,12 +37,12 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="home" class="nav-link">Ana Sayfa</a></li>
+                <li class="nav-item "><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
                 <li class="nav-item"><a href="portfolio" class="nav-link">Portfolio</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
-                    <div class="dropdown-menu" aria-labelledby="dropdown04">
+                    <div class="dropdown-menu active" aria-labelledby="dropdown04">
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
                         <a class="dropdown-item" href="services3">Web Geliştirme</a>
                         <a class="dropdown-item" href="services">Video Prodüksiyon</a>
@@ -64,7 +64,7 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Anasayfa</a></span> <span>Servisler</span></p>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="home">Anasayfa</a></span> <span>Servisler</span></p>
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Servislerimiz</h1>
           </div>
         </div>
