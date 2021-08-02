@@ -110,16 +110,16 @@
                 <div class="text">
                     <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Misyonumuz</a></h2>
-                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+                    <p>Müşterimizin istekleri doğrultusunda, ihtiyaçlarının en elverişli koşullarda kaliteli ve ekonomik yollarla karşılanması amacıyla işlevsel ve doğru stratejilerin geliştirilmesi, planlanması, uygulanması ve bu hizmetin bir bütün olarak doğru zamanda ve uygun maliyetlerle sunulmasıdır.</p>
 
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/misyon.svg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/quality.svg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text order-1">
                     <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Kalite Politikamız</a></h2>
-                    <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
+                    <p>Oluşturduğumuz vizyon, misyon ve kurumsal değerler ışığında müşteri memnuniyetini temel hedef almak, sürekli gelişme ve iyileştirme ilkesiyle kaliteyi üretmek ve yönetmek, başlıca politikamızdır.</p>
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
@@ -127,7 +127,7 @@
                 <div class="text">
                     <h4 class="subheading">Kurumsal</h4>
                     <h2 class="heading"><a href="portfolio">Strateji</a></h2>
-                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+                    <p>SiyahKare stratejisinin temeli, yaptığımız her iş ve aldığımız her karar için müşterlerimizi ilk plana koymaya ve müşterilerimizle uzun vadeli iş ortaklığı yaratmaya dayanır.</p>
 
                 </div>
             </div>
