@@ -71,7 +71,28 @@
     </div>
 </div>
 
-<section class="ftco-section bg-light">
+
+
+<section class="ftco-section-parallax">
+    <div class="parallax-img d-flex align-items-center">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div id="particles-js" style="background-color: black;"></div>
+                <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+                    <h2>Bakımda.!</h2>
+                    <p>Bu Sayfa Şuanda Bakımda. Daha Sonra tekrar Deneyebilirsin..!</p>
+                    <div class="row d-flex justify-content-center mt-5">
+                        <div class="col-md-6">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- <section class="ftco-section bg-light">
     <div class="container">
         <div class="row">
             <div class="col-md-4 ftco-animate">
@@ -175,7 +196,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <footer style="background-color: black;" class="ftco-footer ftco-bg-dark ftco-section">
