@@ -105,7 +105,7 @@
         </div>
         <div class="row">
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image" style="background-image: url('images/misyon.svg'); " data-scrollax=" properties: { translateY: '-20%'}">
+                <a href="portfolio" class="image" style="background-image: url('images/mmisyon.svg'); " data-scrollax=" properties: { translateY: '-20%'}">
                 </a>
                 <div class="text">
                     <h4 class="subheading">Kurumsal</h4>
