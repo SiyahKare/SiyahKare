@@ -46,7 +46,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
-                        <a class="dropdown-item" href="portfolio">Yazılım Geliştirme</a>
+                        <a class="dropdown-item" href="services">Yazılım Geliştirme</a>
                         <a class="dropdown-item" href="portfolio">Video Prodüksiyon</a>
 
                     </div>
