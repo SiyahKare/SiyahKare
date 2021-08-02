@@ -64,7 +64,7 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Home</a></span> <span>Portfolio</span></p>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="home">Anasayfa</a></span> <span>Portfolio</span></p>
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Portfolio</h1>
           </div>
         </div>
@@ -72,71 +72,49 @@
     </div>
     
     <section class="ftco-section">
-      <div class="container">
+    <div class="container">
         <div class="row no-gutters justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Works</span>
-            <h2 class="mb-4">View our works below to see our design and way of development.</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-          </div>
+            <div class="col-md-7 text-center heading-section ftco-animate">
+                <span class="subheading">Projelerİmİz</span>
+                <h2 class="mb-4">Geliştirdiğimiz Projeler</h2>
+            </div>
         </div>
         <div class="row">
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
-            <div class="text">
-              <h4 class="subheading">Illustration</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                <a href="portfolio" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
+                </a>
+                <div class="text">
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">Proaktif Yönetim</a></h2>
+                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+
+                </div>
             </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-2.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/envanter.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <div class="text order-1">
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
+                    <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
+                </div>
             </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text">
-              <h4 class="subheading">Web Design</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                <a href="portfolio" class="image" style="background-image: url('images/neparca.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <div class="text">
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
+                    <p> NeParça, E-ticaret, Müzik Parçaları, NFT, Kripto Madenciliği donanımlarını uygun fiyatlara bulabileceğiniz Piyasa fiyatlarına göre daha uygun ve hızlı erişilebilen  pazaryeridir.</p>
+
+                </div>
             </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-4.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
-            </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image" style="background-image: url('images/work-5.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text">
-              <h4 class="subheading">Web Design</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
-            </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-6.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
-            </div>
-          </div>
         </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+
+            </div>
+        </div>
+    </div>
+
         <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
