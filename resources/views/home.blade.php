@@ -51,7 +51,7 @@
 
                     </div>
                 </li>
-                <li class="nav-item"><a href="blog" class="nav-link">Boş Sayfa</a></li>
+                <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
                 <li class="nav-item"><a href="contact" class="nav-link">İletişim</a></li>
 
             </ul>
@@ -427,7 +427,7 @@
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
                         <li><a href="home" class="py-2 d-block">Anasayfa</a></li>
-                        <li><a href="blog" class="py-2 d-block">Boş Sayfa</a></li>
+                        <li><a href="blog" class="py-2 d-block">Blog</a></li>
                         <li><a href="services" class="py-2 d-block">Servisler</a></li>
                         <li><a href="portfolio" class="py-2 d-block">Portfolio</a></li>
                         <li><a href="about" class="py-2 d-block">Hakkımızda</a></li>

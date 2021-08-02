@@ -112,8 +112,6 @@
         </div>
       </div>
     </section>
-    
-
     <footer style="background-color: black;" class="ftco-footer ftco-bg-dark ftco-section">
     <div class="container">
         <div class="row mb-5">
@@ -128,7 +126,7 @@
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
                         <li><a href="home" class="py-2 d-block">Anasayfa</a></li>
-                        <li><a href="blog" class="py-2 d-block">Boş Sayfa</a></li>
+                        <li><a href="blog" class="py-2 d-block">Blog</a></li>
                         <li><a href="services" class="py-2 d-block">Servisler</a></li>
                         <li><a href="portfolio" class="py-2 d-block">Portfolio</a></li>
                         <li><a href="about" class="py-2 d-block">Hakkımızda</a></li>
