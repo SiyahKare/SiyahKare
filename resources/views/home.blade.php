@@ -40,7 +40,7 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active"><a href="index" class="nav-link">Ana Sayfa</a></li>
+                <li class="nav-item active"><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
                 <li class="nav-item"><a href="services.html" class="nav-link">Servisler</a></li>
                 <li class="nav-item dropdown">
