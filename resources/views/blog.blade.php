@@ -60,7 +60,7 @@
 
 <div class="hero-wrap js-fullheight">
     <div class="overlay"></div>
-    <div id="particles-js"></div>
+    <div id="particles-js" style="background-image: url(images/deneme.jpg);"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
             <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
