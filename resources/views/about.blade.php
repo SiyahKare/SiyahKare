@@ -77,8 +77,8 @@
         <div class="container-fluid" data-scrollax-parent="true">
           <div class="row mt-5 d-flex justify-content-center">
             <div class="col-md-8 text-center heading-section ftco-animate">
-              <h2 class="h1">UI/UX, visual, <strong class="px-3">Web designer</strong> with more than 12 years of experience in designing websites and mobile apps.</h2>
-              <p><a href="#" class="btn btn-primary mt-3 py-3 px-5">Get in touch</a></p>
+              <h2 class="h1">SiyahKare Dijital Çözümler</h2>
+              <p>Ekibimiz 1995 yılından bu yana bilişim sektöründe etkin çalışan, yüzden fazla dijital projeye imza atmış her biri alanında uzman kişilerin SiyahKare markası altında toplanmasıyla oluşmuştur.</p>
             </div>
           </div>
         </div>
