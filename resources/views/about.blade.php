@@ -91,7 +91,7 @@
           <div class="col-md-7 text-center heading-section ftco-animate">
           <img width="250px" src="images/sklogobeyaz.png" alt="">
                     <h2 class="h1"> <strong style="color: black;">  SiyahKare Yazılım Teknoloji San. Tic. A.Ş.</strong></h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+            <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
           </div>
         </div>
         <div class="row">
