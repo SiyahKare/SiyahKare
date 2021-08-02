@@ -76,7 +76,7 @@
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-6 text-center heading-section ftco-animate">
             <span class="subheading">Neler Yapıyoruz?</span>
-            <h2 class="mb-4">Yazılım Geliştirme</h2>
+            <h2 class="mb-4">Video Prodüksiyon</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
