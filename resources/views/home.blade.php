@@ -343,11 +343,12 @@
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                <a href="portfolio" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <a href="portfolio" class="image" style="background-image: url('images/neparca.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
                 <div class="text">
-                    <h4 class="subheading">Web Design</h4>
-                    <h2 class="heading"><a href="portfolio">Even the all-powerful Pointing has no control</a></h2>
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
+                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+
                 </div>
             </div>
         </div>
