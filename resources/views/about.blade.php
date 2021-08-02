@@ -90,7 +90,7 @@
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
           <img width="250px" src="images/sklogobeyaz.png" alt="">
-                    <h2 class="h1"> <strong style="color: black;">  SiyahKare Yazılım Teknoloji San. Tic. A.Ş.</strong></h2>
+                    <h2 class="h1"> <strong style="color: black;">  SiyahKare Yazılım Teknoloji <br> San. Tic. A.Ş.</strong></h2>
             <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
           </div>
         </div>
