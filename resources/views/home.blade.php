@@ -347,7 +347,7 @@
                 <div class="text">
                     <h4 class="subheading">Projeler</h4>
                     <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
-                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+                    <p> <stron>NeParça, E-ticaret, Kripto Madenciliği </stron> donanımlarını uygun fiyatlara bulabileceğiniz pazaryeridir.</p>
 
                 </div>
             </div>
