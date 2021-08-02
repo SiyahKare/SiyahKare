@@ -94,6 +94,79 @@
             <p>Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir.</p>
           </div>
         </div>
+        <section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+            <div class="col-md-6 text-center heading-section ftco-animate">
+                <span class="subheading">HİZMETLERİMİZ</span>
+                <h2 class="mb-4">Nasıl Yapıyoruz ?</h2>
+                <p style="color: red;">PROJE ÖZELLİKLERİ</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-desing (1).svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">Özgün Tasarım</h3>
+                        <p>Web sitenizi alışılmışın dışında tamamen farklı özgün tasarım ve özgün içerik ile tasarlıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-responsive.svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">Tam Mobil Uyum</h3>
+                        <p>Responsive kodlama ile web sitenizin tüm cihazlarda kusursuz görünmesini sağlıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-coding.svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">Temiz Kodlama</h3>
+                        <p>Web sitenizde bilinen karmaşık kodlamaların aksine çok sade ve web dostu kodlama yapıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-speed.svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">Hız Aşırtma</h3>
+                        <p>Özgün kodlama yöntemimiz ve çeşitli yöntemler ile web sitenizin hızını maksimum'a çıkartıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-certificate.svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">Web Standartları</h3>
+                        <p>Tüm tasarım, altyapı ve kodlama aşamalarını web standartlarına uygun olarak yapıyoruz.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="icons/wts-seo.svg" alt="">
+                    <div class="media-body p-2 mt-3">
+                        <h3 class="heading">SEO Etkisi</h3>
+                        <p>Biz SEO'ya projenin en başında kodlarken başlıyoruz ve faydalarını da anlatmakla bitiremiyoruz.</p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
         
           </div>
         </div>
