@@ -339,7 +339,7 @@
                 <div class="text order-1">
                     <h4 class="subheading">Projeler</h4>
                     <h2 class="heading"><a href="portfolio">Envanter Takibi</a></h2>
-                    <p>işinizi her yerden yönetin, iş kalitenizi ve performansınızı artırın, risklerinizi doğru yönetip işletmenizin geleceğini şekillendirin.</p>
+                    <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
                 </div>
             </div>
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
