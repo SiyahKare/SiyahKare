@@ -80,6 +80,13 @@
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
+
+        <div class="card-header card-header-image">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe src="https://player.vimeo.com/video/558569397?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-İzmitPlus"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
+                            </div>
+
+                            
         <div class="row mb-5">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
