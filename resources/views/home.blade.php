@@ -161,7 +161,7 @@
                         <div class="text-1 p-4 d-flex align-items-center">
                             <h3>Arama Motoru Optimizasyonu<br><span class="tag">Website</span></h3>
                         </div>
-                        <img src="images/search.svg" class="img-fluid" alt="">
+                        <img src="images/searching.png" class="img-fluid" alt="">
                         <div class="text p-4 d-flex align-items-center">
 
                         </div>
