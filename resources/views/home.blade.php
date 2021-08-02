@@ -347,7 +347,7 @@
                 <div class="text">
                     <h4 class="subheading">Projeler</h4>
                     <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
-                    <p> <stron>NeParça, E-ticaret, Kripto Madenciliği </stron> donanımlarını uygun fiyatlara bulabileceğiniz pazaryeridir.</p>
+                    <p> NeParça, E-ticaret, Müzik Parçaları, NFT, Kripto Madenciliği donanımlarını uygun fiyatlara bulabileceğiniz Piyasa fiyatlarına göre daha uygun ve hızlı erişilebilen  pazaryeridir.</p>
 
                 </div>
             </div>
