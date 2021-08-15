@@ -49,6 +49,7 @@
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
                         <a class="dropdown-item" href="services3">Web Geliştirme</a>
                         <a class="dropdown-item" href="services">Video Prodüksiyon</a>
+                        <a class="dropdown-item" href="services"></a>
 
                     </div>
                 </li>
@@ -356,6 +357,23 @@
                     <h4 class="subheading">Projeler</h4>
                     <h2 class="heading"><a href="portfolio">Ne Parça</a></h2>
                     <p> NeParça, E-ticaret, Müzik Parçaları, NFT, Kripto Madenciliği donanımlarını uygun fiyatlara bulabileceğiniz Piyasa fiyatlarına göre daha uygun ve hızlı erişilebilen  pazaryeridir.</p>
+
+                </div>
+            </div>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                <a href="portfolio" class="image image-2 order-2" style="background-image: url('images/detaymerkezi.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <div class="text order-1">
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">Detay Merkezi</a></h2>
+                    <p>Envanter yönetiminde hedef doğru ürünün, belirlenen zamanda belirlenen yerde olmasını sağlamaktır. Satılması gedeflenen ürünlerin kontrol ve depolama süreçleri envanter yönetiminin önemli bir parçasıdır.</p>
+                </div>
+            </div>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                <a href="portfolio" class="image" style="background-image: url('images/eticaret.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+                <div class="text">
+                    <h4 class="subheading">Projeler</h4>
+                    <h2 class="heading"><a href="portfolio">E-ticaret Çözümleri</a></h2>
+                    <p> Müşterilerinize Güvenilir,erişilebilir bir arayüz sunun. sipariş'den kargosuna kadar bütün akışı takip edin. ticket yönetimi ile müşterilerinize en kısa sürede cevap verin. SiyahKare e-ticaret çözümleri ile <strong style="color:black">"İşinizi Dijitale Taşıyın."</strong></p>
 
                 </div>
             </div>

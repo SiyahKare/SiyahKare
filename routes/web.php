@@ -1,5 +1,7 @@
 <?php
 
+
+
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () { return view('home'); });
@@ -13,6 +15,15 @@ Route::get('/services2', function () { return view('services2'); });
 Route::get('/services3', function () { return view('services3'); });
 
 Route::get('/portfolio', function () { return view('portfolio'); });
+Route::get('/blog', 'App\Http\Controllers\ArticleController@index')->name('blog');
+// Deneme
+
+
+
+Route::get('{page}/{subs?}', ['uses' => '\App\Http\Controllers\PageController@index'])
+    ->where(['page' => '^(((?=(?!admin))(?=(?!\/)).))*$', 'subs' => '.*']);
+
+
 
 
 
