@@ -238,6 +238,15 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block text-center">
+                    <img width="100px" src="" alt="">
+                    <div class="media-body p-2 mt-3">
+                        
+                       
+                    </div>
+                </div>
+            </div>
 
 
             <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">

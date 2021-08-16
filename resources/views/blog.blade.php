@@ -73,7 +73,7 @@
 
 
 
-<!-- <section class="ftco-section-parallax">
+<section class="ftco-section-parallax">
     <div class="parallax-img d-flex align-items-center">
         <div class="container">
             <div class="row d-flex justify-content-center">
@@ -90,9 +90,9 @@
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
-
+<!-- 
 <section class="ftco-section bg-light">
     <div class="container">
         <div class="row">
@@ -115,6 +115,8 @@
 </div>
 </div>
 </div>
+
+
 @endforeach
             <div class="col-md-4 ftco-animate">
                 <div class="blog-entry" data-aos-delay="100">
@@ -187,7 +189,7 @@
                 </div>
             </div>
         </div>
-        
+         -->
         <div class="row mt-5">
             <!-- <div class="col text-center">
                 <div class="block-27">
