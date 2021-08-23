@@ -254,7 +254,7 @@
             <div class="col-md-12 text-center">
 
                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır. | SiyahKare<i class="icon-heart" aria-hidden="true"></i>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır. | SiyahKare<i aria-hidden="true"></i>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
             </div>
         </div>
