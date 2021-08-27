@@ -58,14 +58,15 @@
 </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap js-fullheight">
+    <div class="hero-wrap js-fullheight"> 
       <div class="overlay"></div>
       <div id="particles-js" style="background-image: url(images/deneme.jpg);"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="home">Anasayfa</a></span> <span>Servisler</span></p>
+          
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Video Prodüksiyon</h1>
+            <div style="padding:56.25% 0 0 0;position:relative; border:1px solid red; paddin:1px;"><iframe src="https://player.vimeo.com/video/591721894?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=e729e3064b" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="teaser.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
           </div>
         </div>
       </div>
