@@ -37,15 +37,16 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item "><a href="home" class="nav-link">Ana Sayfa</a></li>
+                <li class="nav-item"><a href="home" class="nav-link">Ana Sayfa</a></li>
                 <li class="nav-item"><a href="about" class="nav-link">Hakkımızda</a></li>
                 <li class="nav-item"><a href="portfolio" class="nav-link">Portfolio</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
-                    <div class="dropdown-menu active" aria-labelledby="dropdown04">
+                    <div class="dropdown-menu" aria-labelledby="dropdown04">
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
                         <a class="dropdown-item" href="services3">Web Geliştirme</a>
-                        <a class="dropdown-item" href="services">Video Prodüksiyon</a>
+                        <a class="dropdown-item active" href="services">Sosyal Medya Yönetimi</a>
+                        <a class="dropdown-item" href="services4">Video Prodüksiyon</a>
 
                     </div>
                 </li>
@@ -65,7 +66,7 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
           
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Video Prodüksiyon</h1>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Sosyal Medya Yönetimi</h1>
             <div style="padding:56.25% 0 0 0;position:relative; border:1px solid red; paddin:1px;"><iframe src="https://player.vimeo.com/video/591721894?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=e729e3064b" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="teaser.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
           </div>
         </div>
@@ -78,14 +79,17 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-6 text-center heading-section ftco-animate">
-            <span class="subheading">Neler Yapıyoruz?</span>
-            <h2 class="mb-4">Video Prodüksiyon</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+            <span class="subheading">Nasıl Yapıyoruz?</span>
+            <h2 class="mb-4"> Platforma Özgü Ol!</h2>
+            <p>
+      Her sosyal medya platformunun kendine ait bir dinamiği vardır. Bunun sebebi ise, her
+      platformu kullanan hedef kitlenin farklı olmasıdır. Markanız için belirlenen sosyal medya
+      platformlarında hedef kitlenize uygun olarak içeriklerin üretilmesini önemli buluyoruz.</p>
           </div>
         </div>
 
         <div class="card-header card-header-image">
-                            <div class="embed-responsive embed-responsive-16by9">
+                            <div class="embed-responsive embed-responsive-16by9 opacity-75">
                             <iframe src="https://player.vimeo.com/video/558369015?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ERC-Merkez"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
                             </div>
 
@@ -95,8 +99,8 @@
             <div class="media block-6 services d-block text-center">
             <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Strategy</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Rakip Analizi</h3>
+                <p>Sektörel Yurtiçi ve Yurtdışı Rakiplerinizi İnceliyoruz.</p>
               </div>
             </div>      
           </div>
@@ -104,8 +108,8 @@
             <div class="media block-6 services d-block text-center">
             <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-laptop"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Design</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Güçlü Tasarım</h3>
+                <p>Lisanslı Görseller ve Güçlü Tasarımlar.</p>
               </div>
             </div>      
           </div>
@@ -113,8 +117,8 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-gear"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Development</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Aylık Raporlama</h3>
+                <p>Hesabınızın Aylık Performansının Raporlanması.</p>
               </div>
             </div>    
           </div>
@@ -123,39 +127,69 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-live_help"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Help &amp; Supports</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading"> Reklam Raporlama</h3>
+                <p>Düşük Maliyetli Doğru Reklam Modelleri.</p>
               </div>
             </div>      
           </div>
         </div>
-        <div class="row mt-5">
+                              
+
+
+
+        <div class="row mt-5" style="border: 1em solid gray; padding: 1px;">
           <div class="col-md-4 ftco-animate">
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-            <ul class="list-services">
+            <br>
+            <h3 align="left">Markaya Özel Yönetim</h3>
+            <p>
+                  Markanızı ürün, hizmet veya içeriklerini sosyal medya dinamiklerine uygun, potansiyel hedef
+                  kitlenize görünür kılıyoruz. Günümüzde sosyal medyanın elde ettiği gücü düşünürsek, büyük
+                  küçük demeden her markanın sektörde aktif rol alabilmesi için sosyal medyada var olması
+                  gerekmektedir.
+                  Sosyal medyada var olmak demek, her platformda var olmanız gerektiği algısını
+                  taşımamaktadır.
+                  Hemen hemen her sektörde uzmanlaşmış profesyonel ekibimiz ile markanızın hedef kitlesine
+                  uygun olarak sosyal medyada hangi platformda olmanız gerektiğine karar veriyoruz.
+                  Markanıza özgü belirlediğimiz stratejiler doğrultusuyla hedef kitleniz ile markanızı
+                  buluşturuyoruz. Böylece ürün ya da hizmetinizi çok daha kısa sürede potansiyel müşteriniz ile
+                  buluşturuyoruz.</p>
+            <!-- <ul class="list-services">
               <li><h3>#1</h3></li>
               <li><a href="#">UI/UX Design</a></li>
               <li><a href="#">Mobile App Design Design</a></li>
               <li><a href="#">Responsive Design</a></li>
-            </ul>
+            </ul> -->
           </div>
           <div class="col-md-4 ftco-animate">
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-            <ul class="list-services">
+            <br>
+            <h3 align="center">Markanıza Özgü Sosyal Medyada Nasıl İçerik Oluşturuyoruz?</h3>
+            <p>
+        Markanızın ihtiyaçları ve sosyal medya dinamikleri doğrultusunda aylık planlama yapıyoruz.
+        Planlamaya bağlı olarak, lisanslı stok fotoğraflar, tarafınızdan gelen içerikler, motion stok
+        videolar gibi çeşitli içerik doneleri kullanıyoruz. Oluşturulan tüm bu içerikler aylık bir
+        paylaşım planı şeklinde tarafınıza iletilip onay alınması doğrultusunda paylaşım sırasına
+        alınmaktadır. Ayın sonunda sosyal medya raporu çıkarılıp o rapor doğrultusunda, bir sonraki
+        ayın içerik planlaması yapılmaktadır.</p>
+            <!-- <ul class="list-services">
               <li><h3>#2</h3></li>
               <li><a href="#">HTML / CSS</a></li>
               <li><a href="#">Prototyping</a></li>
               <li><a href="#">Wireframes</a></li>
-            </ul>
+            </ul> -->
           </div>
           <div class="col-md-4 ftco-animate">
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-            <ul class="list-services">
+            <br>
+            <h3 align="center">Rakipleriniz Bizim İçin Önemli</h3>
+            <p>
+Rakiplerinizi en az sizin kadar biz de önemsiyoruz. Her zaman bir adım önde olabilmeniz için,
+Türkiye ve Dünyadaki rakiplerinizi sosyal medyada takip ediyoruz. Kullandığımız bazı
+raporlama araçlarıyla rakip istatistiklerini güncel tutuyoruz.</p>
+            <!-- <ul class="list-services"> 
               <li><h3>#3</h3></li>
               <li><a href="#">Product Strategy</a></li>
               <li><a href="#">UX Strategy</a></li>
               <li><a href="#">User Testing</a></li>
-            </ul>
+            </ul> -->
           </div>
         </div>
       </div>
@@ -242,3 +276,5 @@
 
 </body>
 </html>
+
+

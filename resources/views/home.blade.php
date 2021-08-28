@@ -48,8 +48,8 @@
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
                         <a class="dropdown-item" href="services3">Web Geliştirme</a>
-                        <a class="dropdown-item" href="services">Video Prodüksiyon</a>
-                        <a class="dropdown-item" href="services"></a>
+                        <a class="dropdown-item" href="services">Sosyal Medya Yönetimi</a>
+                        <a class="dropdown-item" href="services4">Video Prodüksiyon</a>
 
                     </div>
                 </li>

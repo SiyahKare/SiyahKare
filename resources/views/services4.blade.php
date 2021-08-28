@@ -44,9 +44,9 @@
                     <a class="nav-link dropdown-toggle" href="portfolio" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servisler</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown04">
                         <a class="dropdown-item" href="services2">Mobil Geliştirme</a>
-                        <a class="dropdown-item active" href="services3">Web Geliştirme</a>
+                        <a class="dropdown-item" href="services3">Web Geliştirme</a>
                         <a class="dropdown-item" href="services">Sosyal Medya Yönetimi</a>
-                        <a class="dropdown-item" href="services4">Video Prodüksiyon</a>
+                        <a class="dropdown-item active" href="services4">Video Prodüksiyon</a>
 
                     </div>
                 </li>
@@ -59,14 +59,15 @@
 </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap js-fullheight">
+    <div class="hero-wrap js-fullheight"> 
       <div class="overlay"></div>
       <div id="particles-js" style="background-image: url(images/deneme.jpg);"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="home">Anasayfa</a></span> <span>Servisler</span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Web Geliştirme</h1>
+          
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Video Prodüksiyon</h1>
+            <div style="padding:56.25% 0 0 0;position:relative; border:1px solid red; paddin:1px;"><iframe src="https://player.vimeo.com/video/591721894?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=e729e3064b" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="teaser.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
           </div>
         </div>
       </div>
@@ -93,7 +94,7 @@
         <div class="row mb-5">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-            <img width="150px" src="images/number1.png" alt="">
+            <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Strategy</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -102,7 +103,7 @@
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-            <img width="100px" src="images/number2.png" alt="">
+            <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-laptop"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Design</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -242,3 +243,5 @@
 
 </body>
 </html>
+
+

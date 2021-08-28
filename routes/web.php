@@ -13,6 +13,7 @@ Route::get('/blog', function () { return view('blog'); });
 Route::get('/services', function () { return view('services'); });
 Route::get('/services2', function () { return view('services2'); });
 Route::get('/services3', function () { return view('services3'); });
+Route::get('/services4', function () { return view('services4'); });
 
 Route::get('/portfolio', function () { return view('portfolio'); });
 Route::get('/blog', 'App\Http\Controllers\ArticleController@index')->name('blog');
